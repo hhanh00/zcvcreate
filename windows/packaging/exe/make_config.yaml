@@ -1,0 +1,6 @@
+# script_template: "setup.iss"
+app_id: e40f1753-5f6a-47d1-92c4-292e552c7e3f
+display_name: ZCVCreate
+create_desktop_icon: true
+locales:
+  - en
